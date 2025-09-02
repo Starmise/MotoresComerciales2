@@ -5,7 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Lu1sR/Documents/UnrealProjects/MotoresComerciales2/Motores2/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/Lu1sR/Documents/UnrealProjects/MotoresComerciales2/Motores2/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Lu1sR/Documents/UnrealProjects/MotoresComerciales2/Motores2/Content/AI/AIControllers/AIC_Simple.uasset",
+				"C:/Users/Lu1sR/Documents/UnrealProjects/MotoresComerciales2/Motores2/Content/AI/Blueprints/BP_SimpleNPC.uasset",
+				"C:/Users/Lu1sR/Documents/UnrealProjects/MotoresComerciales2/Motores2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8V/FKL40GDR0A4GWYSY60ASK9.uasset",
+				"C:/Users/Lu1sR/Documents/UnrealProjects/MotoresComerciales2/Motores2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/V4/GINYGXQJ96PRW7H50ETNFZ.uasset",
+				"C:/Users/Lu1sR/Documents/UnrealProjects/MotoresComerciales2/Motores2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/QN/FKC6ZMRT11QDVNT62W719Z.uasset",
+				"C:/Users/Lu1sR/Documents/UnrealProjects/MotoresComerciales2/Motores2/Content/Materials/M_Ice.uasset",
+				"C:/Users/Lu1sR/Documents/UnrealProjects/MotoresComerciales2/Motores2/Content/Materials/Textures/01_T_ICE_Normal.uasset",
+				"C:/Users/Lu1sR/Documents/UnrealProjects/MotoresComerciales2/Motores2/Content/Materials/Textures/02_T_PerlinNoise.uasset",
+				"C:/Users/Lu1sR/Documents/UnrealProjects/MotoresComerciales2/Motores2/Content/AI/Blueprints/BP_NPCSimple.uasset"
 			]
 		}
 	]
